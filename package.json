@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "dev": "node src src/index.js.qo"
+    }
+}

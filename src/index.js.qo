@@ -1,0 +1,8 @@
+const QO = bool => {
+    bool ? "yes" : "no" ?: "but";
+}
+
+console.log(QO(true)); // yes
+console.log(QO(false)); // no
+console.log(QO(null)); // but
+console.log(QO(true)); // but
