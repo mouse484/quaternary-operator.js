@@ -5,4 +5,4 @@ const QO = bool => {
 console.log(QO(true)); // yes
 console.log(QO(false)); // no
 console.log(QO(null)); // but
-console.log(QO(1)); // yes
+console.log(QO(1)); // but
