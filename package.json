@@ -1,5 +1,5 @@
 {
     "scripts": {
-        "dev": "node src src/index.js.qo"
+        "dev": "cd src && node quaternary-operator.js index.js.qo"
     }
 }
